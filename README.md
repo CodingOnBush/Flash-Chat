@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+**EDIT : ** Firebase project is delete
 
 # Flash-Chat
 
